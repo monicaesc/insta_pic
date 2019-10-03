@@ -1,0 +1,21 @@
+<h1>New_Post</h1>
+
+<%= form_for @post do |f| %>
+  <div>
+    <label> caption:</label>
+    Caption: <%= f.text_area :caption %>
+  </div>
+  <div>
+    <label>picture:</label>
+    <%=f.file_field :picture %>
+    <%=f.submit%>
+    <% end %>
+
+
+
+
+
+
+  </div>
+<%=f.submit%>
+<% end %>

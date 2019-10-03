@@ -1,0 +1,6 @@
+<h1> "Instacat App"</h1>
+<%= link_to "new_post", new_post_path%>
+
+<% @post.each do |post| %>
+ <li><%= link_to post.caption, "/posts/#{post.id}" %></li>
+<% end %>
