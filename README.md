@@ -1,6 +1,6 @@
 # README
 
-This is a second version and today is Friday!
+## Welcome to Instapic Practice Bootcamp Class
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
