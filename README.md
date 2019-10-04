@@ -1,6 +1,6 @@
 # README
 
-Hola Monica
+This is a second version and today is Friday!
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
